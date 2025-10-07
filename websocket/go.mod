@@ -1,4 +1,4 @@
-module github.com/gofiber/contrib/websocket
+module github.com/NebulaCoding1029/contrib/websocket
 
 go 1.25.0
 
